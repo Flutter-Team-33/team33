@@ -61,13 +61,18 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/uyg1_riverpod.gif)
 
 - **Sprint Review**: 
- Henüz yapılmadı
+Alınan kararlar: Bir sonraki sprint için gerekli eğitimler tamamlanacak ve sayfaların arayüzleri kodlanmaya başlanacak. Login sayfası ve authentication işlemleri tamamlanacak. Authentication işlemleri Firebase kullanılarak tamamlanacak. 
+Sprint Review Katılımcıları:
+  - Buğrahan Zeki Kadak 
+  - Serkan Öncül 
 
 - **Sprint Retrospective:**
-  - Henüz yapılmadı
+  - Takımın geri kalanının da sprintlere katkı vermesi adına adımlar atılmıştır ve buna bağlı olarak görev dağılımında düzenlemeler yapılacaktır. 
 
 -**Diğer Notlar**:
-- N/A
+- Sprint 1 Katılımcıları: 
+  - Buğrahan Zeki Kadak 
+  - Serkan Öncül 
 
 ---
 
