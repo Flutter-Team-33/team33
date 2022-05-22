@@ -88,6 +88,7 @@ Sprint Review Katılımcıları:
 ![Backlog 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- 
   ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-31-47_Trim.gif)
   ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-34-55_Trim.gif)
 
