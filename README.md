@@ -81,11 +81,15 @@ Sprint Review Katılımcıları:
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- 
+- - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png) 
 ![Backlog 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png) 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-31-47_Trim.gif)
+  ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-34-55_Trim.gif)
 
 -**Diğer Notlar**:
 - Sprint 1 Katılımcıları: 
