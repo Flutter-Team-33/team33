@@ -98,6 +98,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-31-47_Trim.gif)
   ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-34-55_Trim.gif)
 
+- **Sprint Review**: 
+Bu sprintte firebase kullanılarak kullanıcı authentication işlemleri tamamlandı ve profil-page tamamlandı. 
+Alınan kararlar: Bir sonraki sprintte kültür-sanat listeleri ekleme ve grüntüleme fonksiyonları kodlanacak, profil sayfası detaylandırılacak ve uygulama kullanılabilir hale getirilecek.
+Sprint Review Katılımcıları:
+  - Buğrahan Zeki Kadak 
+  - Serkan Öncül 
+
+- **Sprint Retrospective:**
+  - Buğrahan Zeki Kadak ve Serkan Öncül dışında sprint'lere katkı verilmediği için görev dağılımında düzenlemelere gidilmiştir. Firebase teknolojisi uygulamalarla pekiştirilmiş ve uygulamaya yansıtılmıştır.
+
 -**Diğer Notlar**:
 - Sprint 2 Katılımcıları: 
   - Buğrahan Zeki Kadak
