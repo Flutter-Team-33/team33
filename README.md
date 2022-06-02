@@ -13,25 +13,21 @@ Team33
 
 ## Ürün İsmi
 
---Culture App--
+--My Window--
 
 ## Ürün Açıklaması
 
-- Culture App kendini geliştirmek isteyen kullanıcıların çeşitli kültür, sanat, film, müzik vb önerilerini listeler haline getirip birbiri ile paylaşabileceği, öğrenirken eğlenebileceği bir kişisel gelişim uygulamasıdır.
+- My Window, kendini geliştirmek isteyen kullanıcıların; çeşitli kültür, sanat, film, müzik vb zevklerini, hobilerini window'lar haline getirip birbiri ile paylaşabileceği, aynı zevklere sahip kişilerin tanışıp kaynaşacağı ve kullanıcılarına kendi sosyal bir çevrelerini, network'lerini genişleteceği bir ortam sağlar.
 
 ## Ürün Özellikleri
 
 - Kişinin ilgi alanına göre kategoriler bulundurma.
-- İlgili kategorilerdeki ürünleri birleştirip öneri listesi oluşturma.
-- Bu listeleri birbirleri ile paylaşabilme.
+- İlgili kategorilerde kendi window'larını oluşturabilme.
+- Bu windowlar'ı birbirleri ile paylaşabilme ve çeşitli etkileşimlerde bulunabilme.
 
 ## Hedef Kitle
 
-- Kişisel gelişimine önem veren genç kullanıcılar.
-- Kültür-Sanat severler.
-- Müzik-Film severler.
-- Düzenli kitap okuyucuları.
-
+- Kişisel gelişimine önem veren ve ortak hobileri olan insanlarla etkileşime geçmek isteyen 18-25 yaş arası genç kullanıcılar.
 
 ## Product Backlog URL
 
