@@ -14,10 +14,9 @@ class RegistrationScreen extends StatefulWidget {
 
 class _RegistrationScreenState extends State<RegistrationScreen> {
   final _auth = FirebaseAuth.instance;
-  
+
   // string for displaying the error Message
   String? errorMessage;
-
 
   // our form key
   final _formKey = GlobalKey<FormState>();
@@ -31,6 +30,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
   @override
   Widget build(BuildContext context) {
     //first name field
+
     final firstNameField = TextFormField(
         autofocus: false,
         controller: firstNameEditingController,
@@ -183,16 +183,15 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
     );
 
     return Center(
-      child: SingleChildScrollView(
-        child: Padding(
-        padding: const EdgeInsets.fromLTRB(15, 30, 15, 2),
-          child: Form(
-            key: _formKey,
+      child: Padding(
+        padding: MediaQuery.of(context).viewInsets,
+        child: Form(
+          key: _formKey,
+          child: SingleChildScrollView(
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
-               
                 firstNameField,
                 SizedBox(height: 20),
                 secondNameField,
@@ -212,6 +211,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
       ),
     );
   }
+
   void signUp(String email, String password) async {
     if (_formKey.currentState!.validate()) {
       try {
@@ -249,6 +249,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
       }
     }
   }
+
   postDetailsToFirestore() async {
     // calling our firestore
     // calling our user model

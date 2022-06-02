@@ -22,7 +22,7 @@ class _LoginFormState extends State<LoginForm> {
 
   // firebase
   final _auth = FirebaseAuth.instance;
-  
+
   // string for displaying the error Message
   String? errorMessage;
 
@@ -87,7 +87,7 @@ class _LoginFormState extends State<LoginForm> {
     final loginButton = Material(
       elevation: 5,
       borderRadius: BorderRadius.circular(30),
-      color:  Color.fromRGBO(64, 212, 180, 1),
+      color: Color.fromRGBO(64, 212, 180, 1),
       child: MaterialButton(
           padding: EdgeInsets.fromLTRB(20, 15, 20, 15),
           minWidth: MediaQuery.of(context).size.width,
@@ -101,45 +101,71 @@ class _LoginFormState extends State<LoginForm> {
                 fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold),
           )),
     );
-    
+
     Widget newBotton = ElevatedButton(
-              onPressed: () {
-                FormRegistration(context);
-              },
-              child: const Text(
-                'Create Account',
-                style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  color: Colors.white,
-                ),
-              ),
-              style: ElevatedButton.styleFrom(
-                primary: Color.fromRGBO(64, 212, 180, 1),
-                fixedSize: const Size(256, 50),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                shadowColor: Colors.transparent,
-              ),
-            );
-    
+      onPressed: () {
+        FormRegistration(context);
+      },
+      child: const Text(
+        'Create Account',
+        style: TextStyle(
+          fontWeight: FontWeight.bold,
+          color: Colors.white,
+        ),
+      ),
+      style: ElevatedButton.styleFrom(
+        primary: Color.fromRGBO(64, 212, 180, 1),
+        fixedSize: const Size(256, 50),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(12),
+        ),
+        shadowColor: Colors.transparent,
+      ),
+    );
+
     return SizedBox(
       child: Padding(
-        padding: const EdgeInsets.fromLTRB(15, 30, 15, 5),
+        padding: MediaQuery.of(context).viewInsets,
         child: Form(
           key: _formKey,
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: <Widget>[
-              
-              emailField,
-              SizedBox(height: 25),
-              passwordField,
-              SizedBox(height: 35),
-              loginButton,
-              
-            ],
+          child: SingleChildScrollView(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: <Widget>[
+                SizedBox(height: 25),
+                emailField,
+                SizedBox(height: 20),
+                passwordField,
+                SizedBox(height: 25),
+                loginButton,
+                SizedBox(height: 25),
+                _buildSignInWithText(),
+                Padding(
+                  padding: EdgeInsets.symmetric(vertical: 10.0),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: <Widget>[
+                      _buildSocialBtn(
+                        () => print('Login with Facebook'),
+                        AssetImage(
+                          'assets/images/facebook.jpg',
+                        ),
+                      ),
+                      SizedBox(
+                        width: 16,
+                      ),
+                      _buildSocialBtn(
+                        () => print('Login with Google'),
+                        AssetImage(
+                          'assets/images/google.jpg',
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       ),
@@ -185,5 +211,50 @@ class _LoginFormState extends State<LoginForm> {
         print(error.code);
       }
     }
+  }
+
+  Widget _buildSignInWithText() {
+    return Column(
+      children: <Widget>[
+        Text(
+          '- OR -',
+          style: TextStyle(
+            color: Color.fromARGB(255, 0, 0, 0),
+            fontWeight: FontWeight.w400,
+          ),
+        ),
+        SizedBox(height: 10.0),
+        Text(
+          'Sign in with',
+          //style: kLabelStyle,
+        ),
+        SizedBox(height: 10.0),
+      ],
+    );
+  }
+
+  Widget _buildSocialBtn(Function onTap, AssetImage logo) {
+    return GestureDetector(
+      child: InkWell(
+        child: Container(
+          height: 40.0,
+          width: 40.0,
+          decoration: BoxDecoration(
+            shape: BoxShape.circle,
+            color: Colors.white,
+            boxShadow: [
+              BoxShadow(
+                color: Colors.black26,
+                offset: Offset(0, 2),
+                blurRadius: 6.0,
+              ),
+            ],
+            image: DecorationImage(
+              image: logo,
+            ),
+          ),
+        ),
+      ),
+    );
   }
 }

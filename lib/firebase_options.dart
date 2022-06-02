@@ -37,29 +37,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBQbhrRvrLSdD0nlyGzvhzDA7V8c7MRnMU',
-    appId: '1:243990692480:web:253af27948ccbda4b09c65',
-    messagingSenderId: '243990692480',
-    projectId: 'login-firebase-424a9',
-    authDomain: 'login-firebase-424a9.firebaseapp.com',
-    storageBucket: 'login-firebase-424a9.appspot.com',
+    apiKey: 'AIzaSyBTNHmB3yUsiARgFSnt90tbhE_Xl9Uu4_c',
+    appId: '1:89696239203:web:f2a72edbbc4934b699c256',
+    messagingSenderId: '89696239203',
+    projectId: 'team-33-app',
+    authDomain: 'team-33-app.firebaseapp.com',
+    storageBucket: 'team-33-app.appspot.com',
+    measurementId: 'G-0GSLXS59FJ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAx8isTb5CHielyqTOdY2dANQ0lneQ2bCc',
-    appId: '1:243990692480:android:cfe7dc4bcc6cc0ffb09c65',
-    messagingSenderId: '243990692480',
-    projectId: 'login-firebase-424a9',
-    storageBucket: 'login-firebase-424a9.appspot.com',
+    apiKey: 'AIzaSyAP0FuCaxl28HxsgzjIKs1RYDz-b97IUVU',
+    appId: '1:89696239203:android:2f5f4eaa544ded7199c256',
+    messagingSenderId: '89696239203',
+    projectId: 'team-33-app',
+    storageBucket: 'team-33-app.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC4mjwZZbNss5IIr8WCA8jPI9usFPR7o40',
-    appId: '1:243990692480:ios:84e08f512135ac4bb09c65',
-    messagingSenderId: '243990692480',
-    projectId: 'login-firebase-424a9',
-    storageBucket: 'login-firebase-424a9.appspot.com',
-    iosClientId: '243990692480-lhvuve420cq4fedur7abp1426p8q2ipr.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCNjkn7av0LUIllp9uoxck_UDf4hIn7Z3o',
+    appId: '1:89696239203:ios:e6ba2000c1139c1199c256',
+    messagingSenderId: '89696239203',
+    projectId: 'team-33-app',
+    storageBucket: 'team-33-app.appspot.com',
+    iosClientId: '89696239203-29bq18gp1fe6k042okahjelm6ueim29i.apps.googleusercontent.com',
     iosBundleId: 'com.example.team33App',
   );
 }

@@ -1,56 +1,57 @@
 import 'package:flutter/material.dart';
 import 'package:team33_app/authentication/login_form.dart';
 import 'package:team33_app/authentication/regist_form.dart';
+import 'package:team33_app/components/color.dart';
 
 class WelcomePage extends StatelessWidget {
   const WelcomePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-
     Widget girisButton = ElevatedButton(
-              onPressed: () {
-                FormRegistration(context);
-              },
-              child: const Text(
-                'Giriş Yap',
-                style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  color: Colors.white,
-                ),
-              ),
-              style: ElevatedButton.styleFrom(
-                primary: Color.fromRGBO(64, 212, 180, 1),
-                fixedSize: const Size(256, 50),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                shadowColor: Colors.transparent,
-              ),
-            );
+      onPressed: () {
+        FormRegistration(context);
+      },
+      child: const Text(
+        'Giriş Yap',
+        style: TextStyle(
+          fontWeight: FontWeight.bold,
+          color: Colors.white,
+        ),
+      ),
+      style: ElevatedButton.styleFrom(
+        primary: Color.fromRGBO(64, 212, 180, 1),
+        fixedSize: const Size(256, 50),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(12),
+        ),
+        shadowColor: Colors.transparent,
+      ),
+    );
 
     return Scaffold(
-      backgroundColor: //Color.fromARGB(255, 0, 0, 0), 
-      Color.fromARGB(255, 49, 49, 49),
-   
+      resizeToAvoidBottomInset: false,
+      backgroundColor: //Color.fromARGB(255, 0, 0, 0),
+          Color.fromARGB(255, 49, 49, 49),
       body: Padding(
         padding: const EdgeInsets.symmetric(vertical: 50, horizontal: 20),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            
             const Text(
               'Hoşgeldiniz !',
               style: TextStyle(
-                color: Color.fromARGB(255, 255, 255, 255),
+                color: bluegre,
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
               ),
             ),
-
+            SizedBox(
+              height: 1,
+            ),
             Image.asset(
-             'assets/images/loggo.png',
+              'assets/images/loggo.png',
               height: 200.0,
               width: 200,
             ),
@@ -59,35 +60,30 @@ class WelcomePage extends StatelessWidget {
             ),
             Column(
               children: [
-            girisButton, 
-            const SizedBox(
-              height: 15,
-            ),
-            ElevatedButton(
-              onPressed: () {
-              },
-              child: const Text(
-                'Misafir Olarak Devam Et',
-                style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  color: Colors.white,
+                girisButton,
+                const SizedBox(
+                  height: 15,
                 ),
-              ),
-              style: ElevatedButton.styleFrom(
-                primary: Color.fromRGBO(64, 212, 180, 1),
-                fixedSize: const Size(256, 50),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(12),
+                ElevatedButton(
+                  onPressed: () {},
+                  child: const Text(
+                    'Misafir Olarak Devam Et',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                    ),
+                  ),
+                  style: ElevatedButton.styleFrom(
+                    primary: Color.fromRGBO(64, 212, 180, 1),
+                    fixedSize: const Size(256, 50),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    shadowColor: Colors.transparent,
+                  ),
                 ),
-                shadowColor: Colors.transparent,
-              ),
-            ),
               ],
             ),
-
-            
-            
-            
             const SizedBox(
               height: 45,
             ),
@@ -118,7 +114,7 @@ class WelcomePage extends StatelessWidget {
                     color: Color.fromARGB(221, 8, 207, 181),
                   ),
                 ),
-               TextSpan(
+                TextSpan(
                   text: 'kabul etmiş sayılırsınız.',
                   style: TextStyle(
                     color: Color.fromARGB(255, 255, 255, 255),
@@ -129,14 +125,9 @@ class WelcomePage extends StatelessWidget {
           ],
         ),
       ),
-      
     );
-    
   }
-  
 }
-
-
 
 FormRegistration(BuildContext context) {
   return showModalBottomSheet(
@@ -210,5 +201,3 @@ FormRegistration(BuildContext context) {
     },
   );
 }
-
-
