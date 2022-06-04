@@ -27,7 +27,7 @@ Team33
 
 ## Hedef Kitle
 
-- Kişisel gelişimine önem veren ve ortak hobileri olan insanlarla etkileşime geçmek isteyen 18-25 yaş arası genç kullanıcılar.
+- Kişisel gelişimine önem veren ve ortak hobileri olan insanlarla etkileşime geçmeyi seven 18-25 yaş arası genç kullanıcılar.
 
 ## Product Backlog URL
 
@@ -73,6 +73,7 @@ Sprint Review Katılımcıları:
 ---
 
 # Sprint 2
+
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
@@ -92,7 +93,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-31-47_Trim.gif)
-  ![Screenshot 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-34-55_Trim.gif)
+  ![Screenshot 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-34-55_Trim.gif)
 
 - **Sprint Review**: 
 Bu sprintte firebase kullanılarak kullanıcı authentication işlemleri tamamlandı ve profil-page tamamlandı. 
@@ -112,5 +113,42 @@ Sprint Review Katılımcıları:
 ---
 
 # Sprint 3
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk ve ikinci sprint'ten sonra bu üçüncü sprint'e 100 puan kaldı.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]()
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+![Backlog 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/sprint3-1.png) 
+![Backlog 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/sprint3-2.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]()
+  ![Screenshot 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184492.png)
+  ![Screenshot 3](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184506.png)
+
+- **Sprint Review**: 
+Bu sprintte firebase'den veri akışı olacak şekilde olarak Home-Page, Add-Page ve gönderi kısmı etkileşimsiz olan Profil-Page tamamlandı. Uygulama son halini aldı ve gerekli testler uygulandı. 
+Alınan kararlar: Uygulama için 1 adet rehber tanıtım videosu çekilecek.
+Sprint Review Katılımcıları:
+  - Buğrahan Zeki Kadak 
+  - Serkan Öncül 
+
+- **Sprint Retrospective:**
+  - Son sprint olduğu için uygulama ekip üyeleri tarafından kullanıldı ve test edildi, eksikler tespit edildi. Bir sonraki proje için edinilen tecrübeler ekip üyeleri tarafından birbirleri ile paylaşıldıç
+
+-**Diğer Notlar**:
+- Sprint 3 Katılımcıları: 
+  - Buğrahan Zeki Kadak
+  - Serkan Öncül
 
 ---
