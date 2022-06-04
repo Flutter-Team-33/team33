@@ -133,8 +133,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]()
-  ![Screenshot 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184492.png =540x960)
-  ![Screenshot 3](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184506.png =540x960)
+  ![Screenshot 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184492.png)
+  ![Screenshot 3](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184506.png)
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184506.png" alt="drawing" width="540" height='920'/>
 
 - **Sprint Review**: 
 Bu sprintte firebase'den veri akışı olacak şekilde olarak Home-Page, Add-Page ve gönderi kısmı etkileşimsiz olan Profil-Page tamamlandı. Uygulama son halini aldı ve gerekli testler uygulandı. 
