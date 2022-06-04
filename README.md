@@ -129,7 +129,7 @@ Sprint Review Katılımcıları:
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]()
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/daily_scrum3.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
@@ -153,7 +153,7 @@ Sprint Review Katılımcıları:
   - Serkan Öncül 
 
 - **Sprint Retrospective:**
-  - Son sprint olduğu için uygulama ekip üyeleri tarafından kullanıldı ve test edildi, eksikler tespit edildi. Bir sonraki proje için edinilen tecrübeler ekip üyeleri tarafından birbirleri ile paylaşıldıç
+  - Son sprint olduğu için uygulama ekip üyeleri tarafından kullanıldı ve test edildi, eksikler tespit edildi. Bir sonraki proje için edinilen tecrübeler ekip üyeleri tarafından birbirleri ile paylaşıldı.
 
 -**Diğer Notlar**:
 - Sprint 3 Katılımcıları: 
