@@ -89,8 +89,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-![Backlog 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png) 
-![Backlog 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png) 
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png" alt="drawing" width="720" height='360'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png" alt="drawing" width="720" height='360'/>
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
