@@ -94,8 +94,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
- <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixelll_2_5554-2022-06-04-13-58-03_Trim_1.gif" width="270" height='480'/>
- <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixelll_2_5554-2022-06-04-14-01-03_Trim_1.gif" alt="drawing" width="270" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixelll_2_5554-2022-06-04-13-58-03_Trim_1.gif" width="270" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixelll_2_5554-2022-06-04-14-01-03_Trim_1.gif" alt="drawing" width="270" height='480'/>
 
 
 - **Sprint Review**: 
