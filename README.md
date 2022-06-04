@@ -49,9 +49,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/daily_scrum.docx)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_1.png) 
-![Backlog 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_2.png) 
+- **Sprint board update**: Sprint board screenshotları:
+
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_1.png" alt="drawing" width="480" height='240'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_2.png" alt="drawing" width="480" height='240'/>
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
@@ -89,8 +90,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png" alt="drawing" width="720" height='360'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png" alt="drawing" width="720" height='360'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png" alt="drawing" width="480" height='240'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png" alt="drawing" width="480" height='240'/>
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
