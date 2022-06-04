@@ -93,8 +93,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 2](https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
- <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-31-47_Trim.gif" alt="drawing" width="270" height='480'/>
- <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixel_2_API_30_5554-2022-05-22-15-34-55_Trim.gif" alt="drawing" width="270" height='480'/>
+ <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixelll_2_5554-2022-06-04-13-58-03_Trim_1.gif" width="270" height='480'/>
+ <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/Android-Emulator-Pixelll_2_5554-2022-06-04-14-01-03_Trim_1.gif" alt="drawing" width="270" height='480'/>
 
 
 - **Sprint Review**: 
@@ -137,6 +137,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
   <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184492.png" alt="drawing" width="270" height='480'/>
   <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Screenshot_1654184506.png" alt="drawing" width="270" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android-Emulator-Pixelll_2_5554-2022-06-04-14-04-12_Trim_1.gif" alt="drawing" width="270" height='480'/>
   
   
 
