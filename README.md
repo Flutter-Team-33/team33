@@ -6,9 +6,7 @@ Team33
 
 ## Takım Elemanları
 
-- Aleyna Yüksel: Product Owner
-- Buğrahan Zeki Kadak: Scrum Master
-- Büşra Alkan: Team Member/Developer
+- Buğrahan Zeki Kadak: Scrum Master/Developer
 - Serkan Öncül: Team Member/Developer
 
 ## Ürün İsmi
@@ -144,8 +142,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android-Emulator-Pixelll_2_5554-2022-06-04-14-04-12_Trim_1.gif" alt="drawing" width="270" height='480'/>
   
 - **Firabase**: Ekran görüntüleri:
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Opera%20Anlık%20Görüntü_2022-06-06_150528_console.firebase.google.com.png" alt="drawing" width="270" height='480'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Opera%20Anlık%20Görüntü_2022-06-06_151111_console.firebase.google.com.png" alt="drawing" width="270" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Opera%20Anlık%20Görüntü_2022-06-06_150528_console.firebase.google.com.png" alt="drawing"/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Opera%20Anlık%20Görüntü_2022-06-06_151111_console.firebase.google.com.png" alt="drawing"/>
 
 - **Sprint Review**: 
 Bu sprintte firebase'den veri akışı olacak şekilde olarak Home-Page, Add-Page ve gönderi kısmı etkileşimsiz olan Profil-Page tamamlandı. Uygulama son halini aldı ve gerekli testler uygulandı. 
