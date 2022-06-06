@@ -137,9 +137,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android%20Emulator%20-%20Pixelll_2_5554%204%20Haz%202022%2013_56_46.png" alt="drawing" width="270" height='480'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android%20Emulator%20-%20Pixelll_2_5554%204%20Haz%202022%2013_56_15.png" alt="drawing" width="270" height='480'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android-Emulator-Pixelll_2_5554-2022-06-04-14-04-12_Trim_1.gif" alt="drawing" width="270" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android%20Emulator%20-%20Pixelll_2_5554%204%20Haz%202022%2013_56_46.png" alt="drawing" width="243" height='432'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android%20Emulator%20-%20Pixelll_2_5554%204%20Haz%202022%2013_56_15.png" alt="drawing" width="243" height='432'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Android-Emulator-Pixelll_2_5554-2022-06-04-14-04-12_Trim_1.gif" alt="drawing" width="243" height='432'/>
   
 - **Firabase**: Ekran görüntüleri:
   <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/Opera%20Anlık%20Görüntü_2022-06-06_150528_console.firebase.google.com.png" alt="drawing"/>
