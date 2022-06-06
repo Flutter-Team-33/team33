@@ -49,8 +49,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları:
 
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_1.png" alt="drawing" width="480" height='240'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_2.png" alt="drawing" width="480" height='240'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_1.png" alt="drawing" width="960" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/miro_2.png" alt="drawing" width="960" height='480'/>
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
@@ -88,8 +88,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png" alt="drawing" width="480" height='240'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png" alt="drawing" width="480" height='240'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-1.png" alt="drawing" width="960" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%202/sprint2-2.png" alt="drawing" width="960" height='480'/>
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -131,8 +131,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/sprint3-1.png" alt="drawing" width="480" height='240'/>
-  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/sprint3-2.png" alt="drawing" width="480" height='240'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/sprint3-1.png" alt="drawing" width="960" height='480'/>
+  <img src="https://github.com/Flutter-Team-33/team33/blob/master/Bootcamp%20Scrum/Sprint%203/sprint3-2.png" alt="drawing" width="960" height='480'/>
  
 
 - **Ürün Durumu**: Ekran görüntüleri:
